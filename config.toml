@@ -9,14 +9,9 @@ paginate = 6
 
 [taxonomies]
 tag = "tags"
+author = "firozah"
 
-[author]
-name = "firozah" # Your online name
-# Your profile image. External link or relative to static/. Examples:
-# "https://imgur.com/123456788"
-# "image/me.webp"
-image = ""
-about = "I'm dreaming, I'm dreaming! Come on, wake up! Wake up! Wake up..."
+
 
 [params]
 skin = "macintosh"
