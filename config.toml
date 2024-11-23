@@ -19,8 +19,9 @@ image = ""
 about = "I'm dreaming, I'm dreaming! Come on, wake up! Wake up! Wake up..."
 
 [params]
-# Name of a file in static/skins/ without the ".css" extension
 skin = "macintosh"
+author = "Firoooo"
+
 
 #
 # Totally optional cool stuff (see README for details)
