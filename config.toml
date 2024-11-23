@@ -1,9 +1,9 @@
 # Your full site URL. Example:
-# "https://<username>.neocities.org/"
-baseURL = "https://example.com/"
+# "https://firozah.neocities.org/"
+baseURL = "https://firozah-test-site.neocities.org/"
 languageCode = "en-us"
 # Title of your site
-title = "Neofeed"
+title = "hi!!!"
 # How many feed entries to load at once
 paginate = 6
 
